@@ -20,6 +20,6 @@ Capable of calculating
 - Plane intersections
 
 ## Tests
-![Image](../blob/master/recursion_depth.png?raw=true)
+![Image](recursion_depth.png?raw=true)
 
 
