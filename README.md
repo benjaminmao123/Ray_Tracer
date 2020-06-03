@@ -1,6 +1,7 @@
 # Ray_Tracer
 
 Basic ray tracer implemented in C++.
+Results are output to an image file.
 
 ## Features
 
