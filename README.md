@@ -21,11 +21,14 @@ Capable of calculating
 
 ## Tests
 - Recursion Depth
+
 ![Image](recursion_depth.png?raw=true)
 
 - Phong Shading Full Scene
+
 ![Image](phong_shading.png?raw=true)
 
 - Specular Shading
+
 ![Image](specular_shading.png?raw=true)
 
