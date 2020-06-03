@@ -5,7 +5,7 @@ Basic ray tracer implemented in C++.
 ## Features
 
 ### Shading
-Supports
+Currently supports up to 3 types of shading.
 - Flat shading 
 - Phong shading
 - specular shading.
